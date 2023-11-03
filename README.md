@@ -43,5 +43,5 @@ EDLIGHT | Social Media Data Analysis
 
 
 ### Certifications
-Google Data Analytics Certificate, Coursera| 2022
-Data Analysis with Python Certificate, Coursera| 2022
+- Google Data Analytics Certificate, Coursera| 2022
+- Data Analysis with Python Certificate, Coursera| 2022
