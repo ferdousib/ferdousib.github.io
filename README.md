@@ -1,5 +1,7 @@
 # Aspiring Data Analyst
 
+#### Technical Skills: MS Excel, SQL, Python, Tableau, Google Analytics
+
 ### Education
 Applied Mathematics & Economics, Bachelor of Science
 - Related Coursework: Python and SQL for Business Analytics, Financial Analysis & Decision Making, Methods of Numerical Analysis, Financial Mathematics, Applied Statistics and Probability, and Accounting.
